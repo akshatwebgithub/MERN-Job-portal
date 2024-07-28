@@ -1,0 +1,30 @@
+
+.text-center {
+    margin-top: 7%;
+    font-size: 100px;
+}
+.center {
+  display: block;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.btn {
+  background: linear-gradient(#EC5DC1,#D61A6F);
+  padding: 0 12px;
+  border: none;
+  position:relative;
+  margin-top: 8%;
+  margin-left: 47%;
+  top: 50%;
+  border-radius: 20px;
+  box-shadow: 0 30px 15px rgba(#000, .15);  outline: none;
+  color: #FFF;
+  font: 400 16px/2.5 Nunito,'Varela Round', Sans-serif;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+
