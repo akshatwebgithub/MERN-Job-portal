@@ -41,7 +41,6 @@ const options = {
         },
         servers: [
             {
-                url: "http://localhost:8080"
                 url: "https://mern-job-portal-bsfz.onrender.com"
             }
         ]
